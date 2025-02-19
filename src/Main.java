@@ -23,6 +23,7 @@ public class Main {
         University[] universities ={university1,university2};
         System.out.println(Arrays.toString(universities));
         System.out.println();
+        System.out.println();
 
         Person person1=new Person();
         person1.setName("Junusbek");
